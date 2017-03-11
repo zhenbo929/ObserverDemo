@@ -6,4 +6,4 @@
 
 邮箱:15701236412@163.com
 
-GitHub地址:https://github.com/zhenbo929/SingletonDemo
+GitHub地址:https://github.com/zhenbo929/ObserverDemo
